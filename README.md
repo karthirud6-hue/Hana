@@ -33,11 +33,11 @@ oh and she talks. click her and she chats — and she teaches me Japanese while 
 
 ## 🌙 the night i made her
 
-saw a desktop pet on instagram → "i could build that" → one evening later she existed. between those two points: an invisible input box (tkinter pack order betrayal), a Windows keyboard-focus mystery, Google literally shutting down my model while i was using it, and their servers going 503 on me. four completely different types of bugs in one night. i fixed all of them. character development fr.
+saw a desktop pet on instagram → "i could make my version" → one evening later she existed. between those two points: an invisible input box (tkinter pack order betrayal), a Windows keyboard-focus mystery, Google literally shutting down my model while i was using it, and their servers going 503 on me. four completely different types of bugs in one night. i fixed all of them. character development fr.
 
 she's the little sister of [Hiroba](https://hiroba.vercel.app) — my idea-parking + study web app — whose AI, Hiroshi, is basically her big brother. current journey: building a whole family
 
 ---
 
-built with python and stubbornness by [Rudhra Karthikeyan](https://github.com/karthirud6-hue) 🌸
+built with python and stubbornness by [RUDHRA KARTHIEKYAN](https://github.com/karthirud6-hue) 🌸
 ジャパンへの道は続く — the road to Japan continues.
